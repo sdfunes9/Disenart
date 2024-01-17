@@ -1,0 +1,63 @@
+body {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  background:url('/images/2862.jpg') no-repeat fixed top center;
+}
+footer{
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+  color: white;
+  position: relative;
+  bottom: 0px;
+}
+footer a{
+  color: white;
+}
+
+footer a:hover{
+  color: dodgerblue;
+}
+.logo {
+  height: 5rem;
+  width: 7rem;
+}
+
+ul.sizes>li{
+  display: inline;
+    position: relative;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    min-height: 3em;
+    border-left: 2px solid rgb(32, 32, 32);
+    cursor: pointer;
+}
+.orange_logo {
+  height: 720px;
+  width: 720px;
+}
+
+.bg-logo {
+  height: 720px;
+  /* width: 1280px; */
+}
+
+img.screen {
+  width: 184px;
+  height: 87px;
+}
+img.square {
+  width: 75%;
+  height: 75%;
+}
+img.large {
+  width: 500px;
+  height: 21px;
+}
+
+.banner2 {
+  background-color: #fa2d3c;
+}
+.banner3 {
+  background-color: #ef7a84;
+}
